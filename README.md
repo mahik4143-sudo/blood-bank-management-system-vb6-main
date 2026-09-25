@@ -147,9 +147,10 @@ RedBot acts as a **virtual assistant**, making the system easier to use, especia
 ---
 
  ## 👩‍💻 Author
-   **Mahi Kumari**
-  
-    🎓 BCA Final Year Student
+ **Mahi Kumari**
+
+   🎓 BCA Final Year Student
+    
 
 ---
 
