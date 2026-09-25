@@ -139,15 +139,9 @@ RedBot acts as a **virtual assistant**, making the system easier to use, especia
 ## 🔮 Future Scope
 - Convert into Web-Based Application  
 - Add Login & Authentication System  
-- Improve UI/UX Design  
+- Improve UI/UX Design
 - Integrate Notification System (SMS/Email)  
 - Upgrade RedBot to AI-powered chatbot  
-
----
-
-## 👨‍💻 Author
-**Rachit Kumar Singh**  
-🎓 BCA Final Year Student  
 
 ---
 
