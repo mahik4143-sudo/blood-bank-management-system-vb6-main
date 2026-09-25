@@ -6,10 +6,11 @@
 
 ---
 
-## 📌 Project Overview
-The **Blood Bank Management System (BBMS)** is a desktop-based application developed to digitalize and streamline the complete workflow of a blood bank. It efficiently manages donor registration, medical validation, lab testing, component processing, inventory tracking, and blood issuance.
+## 🩸 Project Overview
 
-This project was developed as a **Final Year BCA Project**, focusing on **real-world problem solving, database design, and efficient data handling**.
+The **Blood Bank Management System (BBMS)** is a desktop-based application developed to manage and streamline the major activities of a blood bank. It helps to maintain donor and patient records, manage blood collection and testing, track blood components and stock, and handle blood issue transactions efficiently.
+
+This project was developed as a **BCA final-year project**, focusing on database management, data organization, and solving real-world blood bank management requirements.
 
 ---
 
@@ -142,6 +143,12 @@ RedBot acts as a **virtual assistant**, making the system easier to use, especia
 - Improve UI/UX Design
 - Integrate Notification System (SMS/Email)  
 - Upgrade RedBot to AI-powered chatbot  
+
+---
+
+## Author
+**Mahi Kumari**
+🎓 BCA Final Year Student
 
 ---
 
